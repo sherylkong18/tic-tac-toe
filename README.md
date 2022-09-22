@@ -10,4 +10,4 @@ A Multiplayer interface for you and your friends to play some classic Tic-Tac-To
 #### Worried about always starting the game last and losing the upper hand?
 Don't worry, the starting player will alternate each round for fairness' sake. 😙
 
-Download the file now to run it to play! 
+Download the file now and run it to play! 
